@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Order.API/Program.cs">
+    <Files>
+      <File FileName="Coordinator/Program.cs" />
+      <File FileName="Order.API/Properties/launchSettings.json" />
+      <File FileName="Payment.API/Properties/launchSettings.json" />
+      <File FileName="Stock.API/Properties/launchSettings.json" />
+      <File FileName="Order.API/Program.cs" Line="19" Column="54" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices.2PC" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Payment.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Order.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Coordinator PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{7B695F20-A837-49F1-9D30-80FE1C5FEFCD}" ItemName="Coordinator" ConfigurationId="https" />
+        <StartupItem ItemId="{952B454B-3651-417E-AA49-05838C83723B}" ItemName="Order.API" ConfigurationId="https" />
+        <StartupItem ItemId="{FE74501B-68F4-408F-B1B9-A3B927761F61}" ItemName="Payment.API" ConfigurationId="https" />
+        <StartupItem ItemId="{F700EF97-11D8-4F09-880B-8E93746D4675}" ItemName="Stock.API" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Stock.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
